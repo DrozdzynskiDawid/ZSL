@@ -47,6 +47,6 @@ echo $x; // 4
 $y=$x++; 
 echo $y; // 4
 $y=++$x; 
-echo &y; // 6
+echo $y; // 6
 echo ++$y; // 7
 ?>
