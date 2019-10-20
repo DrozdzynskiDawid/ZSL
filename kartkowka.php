@@ -18,6 +18,7 @@
       // echo "Imie: $imie,dlugosc:",strlen($imie);
       echo "Imie: $imie,dlugosc:$dlugosc<br>";
       $imieN = ucfirst(strtolower(trim($imie)));
+      //$imie1 = substr($imieN,0,10);
       echo $imieN;
     }
     ?>
