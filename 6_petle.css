@@ -1,0 +1,10 @@
+table,tr,td
+{
+  border:1px solid;
+  border-collapse:collapse;
+  padding:8px;
+  text-align:center;
+}
+.red{
+  background-color: red;
+}
