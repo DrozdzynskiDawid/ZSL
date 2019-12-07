@@ -1,0 +1,11 @@
+  
+tr,th,td{
+  border:solid 1px grey;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 7px;
+}
+
+th{
+  background-color: lightgreen;
+}
